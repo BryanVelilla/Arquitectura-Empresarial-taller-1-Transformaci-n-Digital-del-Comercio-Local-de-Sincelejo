@@ -246,12 +246,4 @@ El ejercicio también permitió aplicar de forma práctica los conceptos propios
 
 ---
 
-## Anexo visual
 
-Imágenes de referencia sugeridas para ilustrar el documento (por ejemplo, en una versión de presentación o en Word), organizadas por sección:
-
-- **Entorno / Idea de negocio:** fotografías de tiendas de barrio colombianas atendiendo pedidos por WhatsApp, mostrando la coexistencia de la venta tradicional con herramientas digitales.
-- **Idea de negocio / Capacidades empresariales:** ilustraciones o fotografías conceptuales de un chatbot o agente de inteligencia artificial conversando con un cliente, representando la automatización de la atención.
-- **Introducción / Alianzas comerciales:** fotografías del Mercado Público de Sincelejo, como referencia directa al espacio comercial mencionado como aliado estratégico de la empresa.
-
-*Nota: estas imágenes se mostraron como referencia visual en la conversación, pero no quedan incrustadas como archivo dentro de este README; para incluirlas físicamente en el documento (por ejemplo, al pasarlo a Word o PowerPoint) se recomienda descargarlas de un banco de imágenes libres de derechos (Unsplash, Pexels) o usar fotografías propias del Mercado Público y del comercio local de Sincelejo.*
